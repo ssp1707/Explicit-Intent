@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to implement “Explicit Intents”.
-Developed by: B.Kavya
-Registeration Number : 212220230007
+Developed by: S. Sanjna Priya
+Registeration Number : 212220230043
 */
 ```
 
